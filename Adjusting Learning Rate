@@ -1,1 +1,5 @@
 blog.datumbox.com/tuning-the-learning-rate-in-gradient-descent
+
+
+This one is great for adaptive learning rate.  I need to try this out
+https://www.tensorflow.org/api_docs/python/tf/train/exponential_decay
