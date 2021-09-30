@@ -9,3 +9,12 @@ Numeric Types: Python's documentation on numeric types (int, float, complex).
 String Methods: Python's documentation on built-in string methods.
 Text Sequence Type: Python's documentation on the built-in type str.
 Truth Value Testing: Python's documentation on truth value testing.
+
+New Terms
+Term	Definition
+Assignment	The process by which Python assigns a value to a name.
+Duck Typing	A philosophy promoting interface-based design, widely adopted in the design of Python.
+Dynamic Typing	Python's approach to type systems, in which objects have types, but variables (names) are untyped.
+Name	A text variable name that refers to an object.
+Name Resolution	The process by which Python resolves a name to an object value to which it refers.
+Namespace	An associative mapping between names and objects, used to resolve names to the object values to which they refer.
